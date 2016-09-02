@@ -1,0 +1,41 @@
+body {
+    font-family : "Dancing Script" ;
+    padding-top : 65px;
+    background-image : url(/pakistan%20flag%20hd%20photos.png);
+    background-position : center;
+    background-size: cover;
+    background-attachment : fixed;
+}
+
+table {
+  font-family : Ubuntu;
+  font-style : italic;
+}
+tbody {
+  text-align: center;
+}
+
+thead {
+  font-weight : 600;
+}
+
+.jumbotron {
+  background-color : #efe;
+  opacity : 0.85;
+  
+}
+
+.fontwhite {
+  color : #fff;
+}
+
+.lobsterfont{
+  font-family : Lobster;
+  text-shadow: 4px 4px 4px #aaa;
+}
+
+footer p a {
+  color : #5ff;
+ 
+}
+
